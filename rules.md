@@ -7,7 +7,7 @@ Welcome to the rules section of the hackathon. Kindly ensure that you go through
 3. Teams can use libraries, frameworks, or open-source code in their projects.
 4. Your project submission should adhere to the themes provided during the hackathon. 
 5. Teams must submit their projects by 11:59 AM, 10th October 2021 over Github by creating an issue for the submsision. Any projects being submitted after the deadline will not be accepted.
-6. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of the HackX hackathon. Please refer to the [Code of Conduct](https://github.com/shivaylamba/hackathon-submission/blob/main/coc.md).
+6. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of the HackX hackathon. Please refer to the [Code of Conduct](https://github.com/scaleracademy/hackx-submissions/blob/main/coc.md).
 7. Being an Open Source Hackathon, each and every project developed at HackX should be open source having appropriate License Documents to avoid any unauthorised use of the same. While you remain the owner of your project, submitting it here would mean that Scaler and our partners for this event can use it for various purposes with due credit being given to you. Essentially, you automatically consent to letting us use your project for anything we want with no legal ramifications of any sort.
 
 ## Judging Criteria 
