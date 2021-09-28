@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/bfDBQy1.jpeg" />
+</p>
+
+
 ## How to submit:
 - Upload your code somewhere on the internet. This can be to a GitHub repository, a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
 - Login to your GitHub account. 
@@ -21,10 +26,13 @@ All the Project Submissions have to done by making an issue in this repository. 
 
 ## Project Field:
 Choose from the below themes
-#### `Education`
-#### `Entertainment`
-#### `Fintech`
-#### `Health`
+<p align="center">
+  <img src="https://i.imgur.com/4FDB4od.jpg" />
+</p>
+
 
 ## FAQs
 You can also refer to the [FAQs](https://scalerdiscord.notion.site/scalerdiscord/Frequently-Asked-Questions-ca204bb1489140dfabe9218536aa8923).
+
+## Contact Us
+For all communications and queries, you can join our [Discord Server](https://discord.gg/4pR79vEKUE).
