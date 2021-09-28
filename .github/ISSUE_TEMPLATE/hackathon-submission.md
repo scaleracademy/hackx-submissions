@@ -13,7 +13,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 ## ℹ️ Project information
 
 
- 1. You can select any one theme from - 
+1. **Your Theme** ( Education, Entertainment, Fintech, Health ): Select your theme
  
 2. **Project Name:** Give a suitable title to your project
 
@@ -44,4 +44,4 @@ _(Optional)_
 - [ ] You have followed the issue title format.
 - [ ] You have mentioned the correct labels.
 - [ ] You have provided all the information correctly.
-- [ ] You have read and agree with the terms in the Code Of Conduct 
+- [ ] You have read and agree with the terms in the [Code Of Conduct](https://github.com/scaleracademy/hackx-submissions/blob/main/coc.md)
