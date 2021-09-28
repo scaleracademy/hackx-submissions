@@ -6,8 +6,16 @@
 
 
 ## How to submit:
-- Upload your code somewhere on the internet. This can be to a GitHub repository, a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
+- Upload your code somewhere on the internet. This can be to a GitHub repository ( preferred ), a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
 - Login to your GitHub account. 
+- Make sure that the following are taken into consideration before submitting ( failure to do so will result in disqualification ) : 
+  1. Make sure you have your code link ready 
+  2. Demo Video for the project - 
+       - Tell us about your project
+       - Demo of your project
+       - Video must be in English
+       - File name should be TeamName_HackX
+  3. Demo Link ( if applicable ) - Hosted / Live link of the prototype
 - Start a [new submisison issue](https://github.com/scaleracademy/hackx-submissions/issues/new/choose).
 - Complete the template. 
 - Submit the issue (one per team). 
