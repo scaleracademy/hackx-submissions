@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://i.imgur.com/bfDBQy1.jpeg" />
-</p>
+<a href="https://www.scaler.com/event/hackx/">
+  <p align="center">
+    <img src="https://i.imgur.com/bfDBQy1.jpeg" />
+  </p>
+</a>
 
 
 ## How to submit:
@@ -24,7 +26,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 3. Specify appropriate project field from the checklist, please delete anything that does not matter to you.
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
-## Project Field:
+## Project Theams:
 Choose from the below themes
 <p align="center">
   <img src="https://i.imgur.com/4FDB4od.jpg" />
