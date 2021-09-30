@@ -10,12 +10,13 @@
 - Login to your GitHub account. 
 - Make sure that the following are taken into consideration before submitting ( failure to do so will result in disqualification ) : 
   1. Make sure you have your code link ready 
-  2. Demo Video for the project - 
+  2. You should be ready with your PPT/Document of your project.
+  3. Demo Video for the project - 
        - Tell us about your project
        - Demo of your project
        - Video must be in English
        - File name should be TeamName_HackX
-  3. Demo Link ( if applicable ) - Hosted / Live link of the prototype
+  4. Demo Link ( if applicable ) - Hosted / Live link of the prototype
 - Start a [new submisison issue](https://github.com/scaleracademy/hackx-submissions/issues/new/choose).
 - Complete the template. 
 - Submit the issue (one per team). 
