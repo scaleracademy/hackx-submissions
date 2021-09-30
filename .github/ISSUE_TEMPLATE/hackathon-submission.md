@@ -23,7 +23,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 5. **Team Members:** Mention their Names & tag their GitHub handles
 
-6. **Demo Link:** _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+6. **Demo Link:** _Demo Video with (if any, this might contain a website/ mobile application link, etc.)_
 
 7. **Presentation Link:** Provide us the link to for your power point presentation. 
 
