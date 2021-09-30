@@ -1,6 +1,6 @@
 <a href="https://www.scaler.com/event/hackx/">
   <p align="center">
-    <img src="https://i.imgur.com/bfDBQy1.jpeg" />
+    <img src="https://i.imgur.com/QbwPFZM.jpg" />
   </p>
 </a>
 
