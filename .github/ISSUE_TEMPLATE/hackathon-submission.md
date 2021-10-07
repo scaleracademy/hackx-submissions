@@ -42,7 +42,6 @@ _(Optional)_
 
 **Before you post the issue**:
 - [ ] You have followed the issue title format.
-- [ ] You have mentioned the correct labels.
 - [ ] You have provided all the information correctly.
 - [ ] You have read and agree with the terms in the [Code Of Conduct](https://github.com/scaleracademy/hackx-submissions/blob/main/coc.md)
 - [ ] Make sure you have filled this [Google Form](https://bit.ly/hackxprojectsubmisson)
