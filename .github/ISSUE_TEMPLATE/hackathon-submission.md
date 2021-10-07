@@ -1,9 +1,9 @@
 ---
 name: 'Hackathon Submission '
 about: 'Hackathon Project Submission '
-Title: TEAM NAME - PROJECT NAME - THEME
-Labels: Education, Entertainment, Fintech, Health
-Assignees: 
+title: TEAM NAME - PROJECT NAME - THEME
+labels: Education, Entertainment, Fintech, Health
+assignees: 
 
 ---
 
