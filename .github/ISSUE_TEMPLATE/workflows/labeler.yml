@@ -1,0 +1,16 @@
+name: "Set Issue Label and Assignee"
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Naturalclar/issue-action@v2.0.2
+        with:
+          title-or-body: "both"
+          parameters: '[ {"keywords": ["health", "healthcare"], "labels": ["Health"], "assignees": ["username"]},{"keywords": ["entertainment", "ENTERTAINMENT"], "labels": ["Entertainment"], "assignees": ["username"]},{"keywords": ["education", "Edu", "EdTech", "ed tech", "ed-tech"], "labels": ["Education"], "assignees": ["username"]}, {"keywords": ["fintech", "finance", "fin-tech", "financial tech", "blockchain", "NFT"], "labels": ["Fintech"], "assignees": ["username"]}]'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
