@@ -10,7 +10,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 ## ℹ️ Project information
 
 
-1. **Your Theme** ( Education, Entertainment, Fintech, Health ): Select your theme
+1. **Your Theme** : Select your theme
  
 2. **Project Name:** Give a suitable title to your project
 
