@@ -2,7 +2,6 @@
 name: 'Hackathon Submission '
 about: 'Hackathon Project Submission '
 title: TEAM NAME - PROJECT NAME - THEME
-labels: Education, Entertainment, Fintech, Health
 assignees: 
 
 ---
