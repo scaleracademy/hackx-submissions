@@ -11,16 +11,22 @@
 - Make sure that the following are taken into consideration before submitting ( failure to do so will result in disqualification ) : 
   1. Make sure you have your code link ready 
   2. You should be ready with your PPT/Document of your project.
-  3. Demo Video for the project - 
+       -  [Sample PPT](https://docs.google.com/presentation/d/1tzXTgzFN6dMM5pMjtniSwiO-Q_4PR_nPmLOOn9S8YdI/edit?usp=sharing)
+  4. Demo Video for the project - 
        - Tell us about your project
        - Demo of your project
        - Video must be in English
        - File name should be TeamName_HackX
-  4. Demo Link ( if applicable ) - Hosted / Live link of the prototype
+  5. Demo Link ( if applicable ) - Hosted / Live link of the prototype
 - Start a [new submisison issue](https://github.com/scaleracademy/hackx-submissions/issues/new/choose).
 - Complete the template. 
 - Submit the issue (one per team). 
 - Success 🎉
+
+## Problem Statements & Submission Guidelines 
+- [Problem Statements](https://scalerdiscord.notion.site/HackX-by-Scaler-Submissions-1d5d77a36e4e48888f60ecd449c7b86a)
+- [Walkthrough Video](https://bit.ly/hackxsubmissions)
+
 
 ## Rules
 Kindly go through the [Rules](https://github.com/scaleracademy/hackx-submissions/blob/main/rules.md).
